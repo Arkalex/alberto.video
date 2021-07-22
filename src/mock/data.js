@@ -23,7 +23,7 @@ export const aboutData = {
   paragraphTwo:
     'Aunque me dedico profesionalmente a la edición de vídeo, otra de mis pasiones es la fotografía, a la que me gusta dedicar horas en mi tiempo libre, no solo para capturar momentos, sino para transmitir mensajes y emociones.',
   paragraphThree: '',
-  resume: '/CV.pdf', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/1ONGvS0PYA2ZL1VnlhBFdaZM0MUE6PcNt/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
@@ -40,7 +40,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'ig.jpg',
+    img: 'ig.png',
     title: 'Instagram',
     info: 'Aquí muestro la que es la segunda de mis pasiones, la fotografía de retratos.',
     info2:
