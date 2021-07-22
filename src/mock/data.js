@@ -48,6 +48,15 @@ export const projectsData = [
     url: 'https://instagram.com/topdelxixo',
     repo: '', // if no repo, the button will not show up
   },
+  {
+    id: nanoid(),
+    img: 'do.png',
+    title: 'Drop Out',
+    info: 'Drop Out empezó como el trabajo final del Ciclo Superior de Realización, fue una prueba piloto en formato magazine en el que se hablaba sobre novedades de videojuegos, series y películas en streaming.',
+    info2: 'Aquí me encargaba de organizar y realizar toda la parte técnica',
+    url: 'https://www.youtube.com/watch?v=wQXXk5-zGyM',
+    repo: '', // if no repo, the button will not show up
+  },
 ];
 
 // CONTACT DATA
