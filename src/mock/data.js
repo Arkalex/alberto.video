@@ -50,6 +50,16 @@ export const projectsData = [
   },
   {
     id: nanoid(),
+    img: 'lvp.jpg',
+    title: 'LVP',
+    info: 'Revisaba las partidas de League of Legends y Counter Strike para hacer montajes y posteriormente subirlos a sus respectivos canales de Youtube. ',
+    info2:
+      'También elaboraba el contenido audiovisual  promocional de los próximos eventos que se organizaban, además de crear las miniaturas de los videos.',
+    url: 'https://lvp.global/',
+    repo: '', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
     img: 'do.png',
     title: 'Drop Out',
     info: 'Drop Out empezó como el trabajo final del Ciclo Superior de Realización, fue una prueba piloto en formato magazine en el que se hablaba sobre novedades de videojuegos, series y películas en streaming.',
