@@ -23,7 +23,7 @@ export const aboutData = {
   paragraphTwo:
     'Aunque me dedico profesionalmente a la edición de vídeo, otra de mis pasiones es la fotografía, a la que me gusta dedicar horas en mi tiempo libre, no solo para capturar momentos, sino para transmitir mensajes y emociones.',
   paragraphThree: '',
-  resume: 'https://drive.google.com/file/d/1ONGvS0PYA2ZL1VnlhBFdaZM0MUE6PcNt/view?usp=sharing', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/16C43uEnujXKJ-bEwwvewegSkO-vd8OBd/view', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
